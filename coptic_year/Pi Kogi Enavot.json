@@ -1,0 +1,85 @@
+{
+  "days": [
+    {
+      "day": "01",
+      "celebrations": [
+        {
+          "title": "Departure of St. Eutychus."
+        },
+        {
+          "title": "Martyrdom of St. Pishay (Abshai), the Antiochian"
+        }
+
+      ]
+    },
+    {
+      "day": "02",
+      "celebrations": [
+        {
+          "title": "Departure of St. Titus, the Apostle."
+        },
+        {
+          "title": "Martyrdom of St. Isaiah, brother of Apa Hor"
+        }
+        
+      ]
+    },
+    {
+      "day": "03",
+      "celebrations": [
+        {
+          "title": "Commemoration of Raphael, the Archangel."
+        },
+        {
+            "title": "Martyrdom of St. Andrianus."
+        },
+		{
+            "title": "Departure of St. John XIV, the 96th Pope of Alexandria"
+        }
+      ]
+    },
+    {
+      "day": "04",
+      "celebrations": [
+        {
+          "title": "Departure of St. Liberius, Bishop of Rome."
+        },
+		{
+          "title": "Departure of St. Poimen, the Hermit."
+        },
+		{
+          "title": "St. Inianamon"
+        }
+		
+      ]
+    },
+    {
+      "day": "05",
+      "celebrations": [
+        {
+          "title": "Departure of St. James, Bishop of Cairo."
+        },
+		{
+          "title": "Departure of Amos, the Prophet."
+        },
+		{
+          "title": "Departure of St. Parsoma, the 'Naked'"
+        },
+		{
+            "title": "Departure of St. John XV, the 99th Pope of Alexandria."
+        }
+		
+		        
+      ]
+    },
+    {
+      "day": "06",
+      "celebrations": [
+        {
+            "title": "Thanksgiving to God the Exalted."
+        }
+		
+	  ]
+	}
+	]
+}

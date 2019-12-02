@@ -1,0 +1,350 @@
+{
+  "days": [
+    {
+      "day": "01",
+      "celebrations": [
+        {
+          "title": "Martyrdom of the Sts Maximus, Numitius, Victor (Boctor), and Philip (Philopus)"
+        },
+        {
+          "title": "Commemoration of St. Cleopas the Apostle and His Companion"
+        }
+
+      ]
+    },
+    {
+      "day": "02",
+      "celebrations": [
+        {
+          "title": "Departure of St. Peter III, the 27th Pope of Alexandria."
+        }
+        
+      ]
+    },
+    {
+      "day": "03",
+      "celebrations": [
+        {
+          "title": "Departure of St. Cyriacus the Anchorite."
+        },
+        {
+            "title": "Departure of St. Athanasius & his sister St. Irene"
+        }
+      ]
+    },
+    {
+      "day": "04",
+      "celebrations": [
+        {
+          "title": "Martyrdom of Sts. John & James, Bishops of Persia"
+        },
+		{
+          "title": "Martyrdom of St. Epimachus & St. Adrianus (Azarianus)"
+        },
+		{
+          "title": "Martyrdom of St. Thomas of Damascus"
+        }
+      ]
+    },
+    {
+      "day": "05",
+      "celebrations": [
+        {
+          "title": "Appearance of the Head of Saint Longinus, the Soldier."
+        },
+		{
+          "title": "Martyrdom of St. Timothy and the Relocation of the Body of St. Theodore, the Prince, to Shotb"
+        },
+		{
+          "title": "Departure of St. Joseph II, the 115th Pope of Alexandria."
+        },
+		{
+          "title": "Enthronement of Pope Shenouda III, the 117th Pope of Alexandria."
+        }
+        
+      ]
+    },
+    {
+      "day": "06",
+      "celebrations": [
+        {
+            "title": "Departure of St. Felix, the 26th Bishop of Rome."
+        },
+		{
+            "title": "Consecration of the Church of the Virgin in the Muharraq Monastery"
+        }
+      ]
+    },
+    {
+      "day": "07",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. George of Alexandria"
+        },
+		{
+          "title": "Martyrdom of St. Nehroua of Fayyum"
+        },
+		{
+          "title": "Departure of St. Mina, Bishop of Tamai (Thmoui)"
+        },
+		{
+          "title": "Consecration of the Church of St. George of Cappadocia"
+        },
+		{
+          "title": "Departure of Metropolitan Archbishop Athanasius, of the Metropolis of Beni Suef and El-Bahnasa."
+        }
+         
+        
+      ]
+    },
+    {
+      "day": "08",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Four Incorporeal Beasts"
+        }
+      ]
+    },
+    {
+      "day": "09",
+      "celebrations": [
+        {
+          "title": "Departure of St. Isaac, the 41st Pope of Alexandria."
+        },
+        {
+            "title": "Assembly of the First Ecumenical Council at Nicaea in the year 325 AD."
+        }
+
+      ]
+    },
+    {
+      "day": "10",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Sophia & the Fifty Virgins"
+        },
+        {
+            "title": "Assembly of a Council in Rome because of the Feast of Theophany and Lent"
+        }
+      ]
+    },
+    {
+      "day": "11",
+      "celebrations": [
+        {
+          "title": "Departure of St. Anne (Hannah), the mother of the Theotokos"
+        },
+		{
+          "title": "Martyrdom of St. Archelaus and the Martyrdom of Elisha the Hegumen"
+        }
+      ]
+    },
+    {
+      "day": "12",
+      "celebrations": [
+        {
+          "title": "Commemoration of Michael, the Archangel."
+        } 
+      ]
+    },
+    {
+      "day": "13",
+      "celebrations": [
+        {
+          "title": "Departure of St. Timothy, Bishop of Ansena"
+        },
+        {
+            "title": "Departure of St. Zacharias, the 64th Pope of Alexandria."
+        } 
+      ]
+    },
+    {
+      "day": "14",
+      "celebrations": [
+        {
+          "title": "Departure of St. Martinus (Martin), Bishop of Thrace"
+        },
+		{
+          "title": "Departure of Metropolitan Archbishop Mikhail, of the Metropolis of Asyut."
+        }
+      ]
+    },
+    {
+      "day": "15",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Menas, the Wonder Worker."
+        }
+      ]
+    },
+    {
+      "day": "16",
+      "celebrations": [
+        {
+          "title": "Beginning of the Fast of the Nativity (Advent) in the Coptic Church"
+        },
+		{
+          "title": "Consecration of the Church of St. Abu-Nofer (Onuphrius)"
+        },
+		{
+          "title": "Martyrdom of St. Yostus, the Bishop"
+        },
+		{
+          "title": "Martyrdom of St. Wannas"
+        }
+         
+      ]
+    },
+    {
+      "day": "17",
+      "celebrations": [
+        {
+          "title": "Departure of St. John Chrysostom."
+        }
+      ]
+    },
+    {
+      "day": "18",
+      "celebrations": [
+        {
+          "title": "Martyrdom of the Two Saints: Atrasis & Yoana (Junia)"
+        },
+        {
+            "title": "Martyrdom of St. Philip the Apostle."
+        }
+      ]
+    },
+    {
+      "day": "19",
+      "celebrations": [
+        {
+          "title": "Consecration of the Church of St. Sergius & St. Bacchus"
+        },
+		{
+          "title": "Commemoration of the preaching of St. Bartholomew the Apostle"
+        }
+      ]
+    },
+    {
+      "day": "20",
+      "celebrations": [
+        {
+          "title": "Departure of St. Anianus, the 2nd Pope of Alexandria."
+        },
+        {
+          "title": "Consecration of the Churches of Prince Theodore, the Son of John El-Shotbe, and Prince Theodore El-Mishreke"
+        }        
+      ]
+    },
+    {
+      "day": "21",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Holy Virgin Saint Mary, the Mother of God (Theotokos)."
+        },
+		{
+          "title": "Departure of St. Gregory, the Wonder Worker."
+        },
+		{
+          "title": "Departure of St. Cosma II, the 54th Pope of Alexandria."
+        },
+		{
+          "title": "Commemoration of the Holy Martyrs Sts. Alphaeus, Zacchaeus, Romanus, & John"
+        },
+		{
+          "title": "Commemoration of the Sts Thomas, Victor, and Isaac of the City of Ashmunein"
+        }
+        
+      ]
+    },
+    {
+      "day": "22",
+      "celebrations": [
+        {
+          "title": "Martyrdom of Sts Cosmas, Damian, their Brothers & their Mother."
+        } 
+         
+      ]
+    },
+    {
+      "day": "23",
+      "celebrations": [
+        {
+          "title": "Departure of St. Cornelius the Centurion."
+        },
+		{
+          "title": "Consecration of the Church of St. Marina"
+        }
+      ]
+    },
+    {
+      "day": "24",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Twenty-Four Priests"
+        }
+         
+      ]
+    },
+    {
+      "day": "25",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Mercurius, the Saint with the Two Swords."
+        }
+      ]
+    },
+    {
+      "day": "26",
+      "celebrations": [
+        {
+          "title": "Martyrdom of Sts. Tiburtius (Thiborinos), Valerian (Balaryanos), & Maximus."
+        },
+		{
+          "title": "Commemoration of St. Gregory, Bishop of Nyssa."
+        }
+      ]
+    },
+    {
+      "day": "27",
+      "celebrations": [
+        {
+          "title": "Martyrdom St. James the Mangled (Sawn)"
+        } 
+      ]
+    },
+    {
+      "day": "28",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Sarapamon, Bishop of Niku"
+        } 
+      ]
+    },
+    {
+      "day": "29",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Peter, the 17th Pope of Alexandria."
+        },
+        {
+            "title": "Martyrdom of St. Clement, the 4th Bishop of Rome."
+        }
+      ]
+    },
+    {
+      "day": "30",
+      "celebrations": [
+        {
+          "title": "Departure of St. Acacius, Patriarch of Constantinople."
+        },
+        {
+            "title": "Martyrdom of St. Macarius"
+        },
+		{
+            "title": "Consecration of the Church of Sts. Cosmas, Damian, Their Brothers and Their Mother"
+        }
+      ]
+    }
+  ]
+}

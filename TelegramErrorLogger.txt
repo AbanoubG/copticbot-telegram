@@ -1,0 +1,68 @@
+============[Date]============
+[ 2019-07-31 08:53:42  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 8277219
+ref.message.message_id= 381
+ref.message.from.id= 263036744
+ref.message.from.is_bot= false
+ref.message.from.first_name= x
+ref.message.from.username= ak105
+ref.message.from.language_code= it
+ref.message.chat.id= 263036744
+ref.message.chat.first_name= x
+ref.message.chat.username= ak105
+ref.message.chat.type= private
+ref.message.date= 1564556020
+ref.message.text= a
+
+
+[ref]
+ref.text= Wrong command, type /date to know the coptic date
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\index.php(37): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2019-07-31 08:54:23  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 8277220
+ref.message.message_id= 382
+ref.message.from.id= 263036744
+ref.message.from.is_bot= false
+ref.message.from.first_name= x
+ref.message.from.username= ak105
+ref.message.from.language_code= it
+ref.message.chat.id= 263036744
+ref.message.chat.first_name= x
+ref.message.chat.username= ak105
+ref.message.chat.type= private
+ref.message.date= 1564556062
+ref.message.text= a
+
+
+[ref]
+ref.text= Wrong command, type /date to know the coptic date
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\index.php(37): Telegram->sendMessage(Array)
+#4 {main}
+

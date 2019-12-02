@@ -1,0 +1,386 @@
+{
+  "days": [
+    {
+      "day": "01",
+      "celebrations": [
+        {
+          "title": "Departure of St. Peter Elrahawy, Bishop of Gaza"
+        },
+        {
+          "title": "Consecration of the Church of St. Shenouda"
+        }
+
+      ]
+    },
+    {
+      "day": "02",
+      "celebrations": [
+        {
+          "title": "Departure of the St. Hor, the Monk "
+        },
+        {
+          "title": "Commemoration of St. Hermina the Anchorite"
+        },
+        {
+            "title": "Martyrdom of the church of St. Peter & St. Paul"
+        }
+        
+      ]
+    },
+    {
+      "day": "03",
+      "celebrations": [
+        {
+          "title": "Entrance of St. Mary into the Temple at Jerusalem."
+        },
+        {
+            "title": "Martyrdom of St. Salib"
+        }
+      ]
+    },
+    {
+      "day": "04",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Andrew the Apostle, the Brother of St. Peter."
+        }
+		
+      ]
+    },
+    {
+      "day": "05",
+      "celebrations": [
+        {
+          "title": "Departure of Nahum, the Prophet."
+        },
+		{
+          "title": "Martyrdom of St. Victor (Boctor) of Asyut"
+        },
+		{
+          "title": "Martyrdom of St. Isidore (Isidorus)"
+        }
+		
+		        
+      ]
+    },
+    {
+      "day": "06",
+      "celebrations": [
+        {
+            "title": "Martyrdom of St. Anatolius (Anatole)"
+        },
+		{
+            "title": "Martyrdom of St. Batalus"
+        }
+      ]
+    },
+    {
+      "day": "07",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Banina & St. Banau"
+        },
+		{
+          "title": "Departure of St. Abraham, the 62nd Pope of Alexandria."
+        },
+		{
+          "title": "Departure of St. Matthew the Poor."
+        },
+		{
+          "title": "Enthronement of St. John XIX, the 113th Pope of Alexandria."
+        }
+         
+        
+      ]
+    },
+    {
+      "day": "08",
+      "celebrations": [
+        {
+          "title": "Martyrdom of the St. Barbara & St. Juliana"
+        },
+        {
+          "title": "Martyrdom of the St. Paisus (Isi) & His Sister St. Thecla"
+        },
+        {
+          "title": "Departure of St. Heraclas (Theoclas), the 13th Pope of Alexandria."
+        },
+        {
+          "title": "Departure of St. Samuel the Confessor, Abbot of El-Qualamon Monastery"
+        },
+        {
+          "title": "Departure of St. Yostos el-Antony, the Silent Monk."
+        }
+      ]
+    },
+    {
+      "day": "09",
+      "celebrations": [
+        {
+          "title": "Departure of St. Poemen, the Confessor"
+        }
+
+      ]
+    },
+    {
+      "day": "10",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Shura of Shinshif"
+        },
+        {
+            "title": "Departure of St. Theophilus II, the 60th Pope of Alexandria."
+        },
+		{
+          "title": "Relocation of the Body of St. Severus, Patriarch of Antioch"
+        },
+		{
+          "title": "Departure of St. Nicholas, the Confessor, Bishop of Myra."
+        }
+      ]
+    },
+    {
+      "day": "11",
+      "celebrations": [
+        {
+          "title": "Departure of the St. Pijimi."
+        }
+      ]
+    },
+    {
+      "day": "12",
+      "celebrations": [
+        {
+          "title": "Commemoration of Michael, the Archangel."
+        },
+        {
+          "title": "Commemoration of St. John the Confessor"
+        },
+        {
+          "title": "Departure of St. Hedra, Bishop of Aswan"
+        },
+		{
+          "title": "Assembly of the Council at Rome in 249 AD. Against Benates (Novatus) the Priest"
+        },
+		{
+          "title": "Departure of St. Mark VIII, the 108th Pope of Alexandria."
+        } 
+      ]
+    },
+    {
+      "day": "13",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Barsanuphius"
+        },
+        {
+            "title": "Departure of St. Apraxios (Abracius)."
+        } ,
+        {
+            "title": "Consecration of the Church of St. Misael, the Anchorite."
+        } ,
+        {
+            "title": "St. Zali, disciple of St. Matthew"
+        }  
+      ]
+    },
+    {
+      "day": "14",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Ammonius, Bishop of Esna"
+        },
+        {
+          "title": "Martyrdom of St. Behnam & His Sister St. Sarah"
+        },
+        {
+          "title": "Martyrdom of Sts. Simeon of Menouf, Abba Hor, and Abba Mina the Elder"
+        },
+        {
+          "title": "Departure of St. Christodolos, the 66th Pope of Alexandria."
+        }
+      ]
+    },
+    {
+      "day": "15",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Asbah"
+        },
+        {
+          "title": "Martyrdom of St. Amsah al-Qifti"
+        },
+        {
+          "title": "Departure of St. Gregory the Illuminator, the Patriarch of Armenia."
+        }
+      ]
+    },
+    {
+      "day": "16",
+      "celebrations": [
+        {
+          "title": "Departure of the Righteous Gideon, One of the Judges of Israel."
+        },
+		{
+          "title": "Martyrdom of Sts. Harouadi, Ananias & Khouzi of Akhmim"
+        },
+		{
+          "title": "Martyrdom of St. Eulogius & St. Arsenius"
+        },
+		{
+          "title": "Consecration of the Church of St. James the Persian"
+        }
+         
+      ]
+    },
+    {
+      "day": "17",
+      "celebrations": [
+        {
+          "title": "Departure of St. Luke the Stylite and the Relocation of His Holy Relics"
+        },
+        {
+          "title": "Commemoration of St. Elisa the Anchorite"
+        }
+      ]
+    },
+    {
+      "day": "18",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Relocation of the Relics of St. Titus to Constantinople"
+        },
+        {
+            "title": "Commemoration of St. Heracleas the Martyr and St. Philemon the Priest"
+        }
+        
+      ]
+    },
+    {
+      "day": "19",
+      "celebrations": [
+        {
+          "title": "Departure of St. John, Bishop of El-Borollos, who gathered the Biographies of the Saints (The Synaxarion)"
+        }
+      ]
+    },
+    {
+      "day": "20",
+      "celebrations": [
+        {
+          "title": "Departure of Haggai, the Prophet."
+        },
+        {
+          "title": "Commemoration of St. Elias, Bishop of al-Muharraq"
+        }
+      ]
+    },
+    {
+      "day": "21",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Holy Virgin Saint Mary, the Mother of God (Theotokos)"
+        },
+		{
+          "title": "Martyrdom of St. Barnabas, one of the Seventy Apostles."
+        }
+        
+      ]
+    },
+    {
+      "day": "22",
+      "celebrations": [
+        {
+          "title": "Commemoration of Gabriel, the Archangel."
+        },
+        {
+          "title": "Departure of St. Anastasius, the 36th Pope of Alexandria"
+        } 
+         
+      ]
+    },
+    {
+      "day": "23",
+      "celebrations": [
+        {
+          "title": "Departure of David, the Prophet and King"
+        },
+		{
+          "title": "Departure of St. Timothy, the Anchorite"
+        }
+      ]
+    },
+    {
+      "day": "24",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Ignatius, Patriarch of Antioch"
+        },
+        {
+          "title": "Departure of St. Philogonius, Patriarch of Antioch"
+        },
+        {
+          "title": "Commemoration of the Nativity of St. Takla Haymanot, the Ethiopian."
+        }
+         
+      ]
+    },
+    {
+      "day": "25",
+      "celebrations": [
+        {
+          "title": "Departure of St. John Kama (Khame)"
+        }
+      ]
+    },
+    {
+      "day": "26",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Anastasia."
+        },
+		{
+          "title": "Commemoration of St. Juliana the Martyr."
+        }
+      ]
+    },
+    {
+      "day": "27",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Psote, the Bishop of Ebsay"
+        } 
+      ]
+    },
+    {
+      "day": "28",
+      "celebrations": [
+        {
+          "title": "The Glorious Nativity of Our Lord Jesus Christ (Christmas)."
+        },
+		{
+          "title": "Martyrdom of 150 Men and 24 Women from Ansena"
+        }
+      ]
+    },
+    {
+      "day": "29",
+      "celebrations": [
+        {
+          "title": "Feast of the Nativity of Our Lord Jesus Christ (Christmas)."
+        }
+      ]
+    },
+    {
+      "day": "30",
+      "celebrations": [
+        {
+          "title": "The Adoration of the Magi."
+        },
+		{
+          "title": "Departure of St. John, Archpriest of Scetis"
+        }
+      ]
+    }
+  ]
+}

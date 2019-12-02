@@ -1,0 +1,388 @@
+{
+  "days": [
+    {
+      "day": "01",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Cosmas of Taha and his companions"
+        },
+        {
+          "title": "Martyrdom of St. Zikam"
+        },
+		{
+          "title": " Consecration of the church of St. Leontius the Syrian."
+        },
+        {
+          "title": "Consecration of the church of St. Phoebammon (Abu-Fam) the soldier"
+        },
+        {
+            "title": "Departure of Fr. Matta El Meskeen."
+        }
+
+      ]
+    },
+    {
+      "day": "02",
+      "celebrations": [
+        {
+          "title": "Appearance of the Bodies of St. John the Baptist and Elisha, the Prophet. "
+        },
+        {
+          "title": "Departure of St. John XVIII, the 107th Pope of Alexandria."
+        }
+		
+      ]
+    },
+    {
+      "day": "03",
+      "celebrations": [
+        {
+          "title": "Consecration of the First Church of St. George in the cities of Birma, Egypt and Beer Maa, Egypt"
+        },
+        {
+            "title": "Martyrdom of St. Alladius the Bishop"
+        },
+        {
+            "title": "Departure of St. Martha of Egypt"
+        },        
+        {
+            "title": "Departure of St. Cosmas I, the 44th Pope of Alexandria."
+        },
+        {
+            "title": "Departure of St. Abraam, Bishop of Fayoum."
+		}
+      ]
+    },
+    {
+      "day": "04",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Synesius (Sanusi) of Balqim"
+        },
+		{
+          "title": "Martyrdom of St. Amoun & St. Sophia the Righteous"
+        },
+		{
+          "title": "Martyrdom of St. John of Heraclea"
+        },
+		{
+          "title": "Departure of St. Hor"
+        },
+		{
+          "title": "Departure of St. John VIII, the 80th Pope of Alexandria"
+        }
+		
+      ]
+    },
+    {
+      "day": "05",
+      "celebrations": [
+        {
+          "title": "Departure of St. James the Oriental"
+        },
+		{
+          "title": "Martyrdom of St. Pshay & St. Peter"
+        },
+		{
+          "title": "Consecration of the Church of St. Victor in Shu"
+        }
+		
+		        
+      ]
+    },
+    {
+      "day": "06",
+      "celebrations": [
+        {
+            "title": "Martyrdom of St. Theodore the Monk of Alexandria"
+        }
+      ]
+    },
+    {
+      "day": "07",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Abaskhiron the Soldier"
+        }
+		
+         
+        
+      ]
+    },
+    {
+      "day": "08",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Consecration of the Church of the Holy Virgin Mary in Musturud"
+        },
+        {
+          "title": "Martyrdom of St. Amadah and her sons, and St. Armanius and his mother St. Amah"
+        },
+        {
+          "title": "Martyrdom of St. George the New Martyr"
+        }
+      ]
+    },
+    {
+      "day": "09",
+      "celebrations": [
+        {
+          "title": "Departure of Samuel, the Prophet."
+        },
+        {
+          "title": "Martyrdom of St. Lucilianus, and four others with him"
+        },
+        {
+          "title": "Relocation of the Relics of St. Mercurius to Cairo, Egypt."
+        }
+
+      ]
+    },
+    {
+      "day": "10",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Eudaemon, St. Epistemon, & St. Sophia"
+        },
+        {
+          "title": "Commemoration of the closing of the pagan temples and the opening of the Christian Churches by St. Constantine the Great ."
+        },
+		{
+          "title": "Departure of St. John XVI, the 103rd Pope of Alexandria."
+        },
+		{
+          "title": "Enthronement of St. Demetrius II, the 111th Pope of Alexandria."
+        }
+      ]
+    },
+    {
+      "day": "11",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Claudius, son of Ptolemy and nephew of Numerian the Emperor"
+        },
+        {
+          "title": "Consecration of the Altar of the Forty Martyrs of Sebaste at the Savior's Church in Alexandria."
+        }
+      ]
+    },
+    {
+      "day": "12",
+      "celebrations": [
+        {
+          "title": "Commemoration of Michael, the Archangel."
+        },
+        {
+          "title": "Departure of St. Justus, the 6th Pope of Alexandria."
+        },
+        {
+          "title": "Departure of St. Cyril II, the 67th Pope of Alexandria."
+        },
+		{
+          "title": "Departure of St. Euphemia the Widow"
+        }
+      ]
+    },
+    {
+      "day": "13",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Gabriel the Archangel, the Announcer of Daniel the Prophet."
+        },
+        {
+            "title": "Departure of St. John II, Bishop of Jerusalem"
+        } 
+      ]
+    },
+    {
+      "day": "14",
+      "celebrations": [
+        {
+          "title": "Martyrdom of Sts. Cyrus, John, Ptolemaeus and Philip"
+        },
+        {
+          "title": "Departure of St. John XIX, the 113th Pope of Alexandria."
+        }
+      ]
+    },
+    {
+      "day": "15",
+      "celebrations": [
+        {
+          "title": "The Turning Over of the Relics of the St. Mark the Apostle by the hand of Pope Paul VI, Pope of Rome."
+        },
+        {
+          "title": "Consecration of the Church of St. Menas at Maryut"
+        }
+      ]
+    },
+    {
+      "day": "16",
+      "celebrations": [
+        {
+          "title": "Departure of St. Onuphrius the Anchorite."
+        },
+		{
+          "title": "Commemoration of St. Latson the Anchorite"
+        }
+         
+      ]
+    },
+    {
+      "day": "17",
+      "celebrations": [
+        {
+          "title": "Departure of St. Latsoun El-Bahnasa"
+        },
+        {
+          "title": "Return of the Relics of the St. Mark to St. Mark Cathedral"
+        }
+      ]
+    },
+    {
+      "day": "18",
+      "celebrations": [
+        {
+          "title": "Departure of St. Damian, the 35th Pope of Alexandria."
+        },
+        {
+            "title": "Inauguration of St. Mark Cathedral in the Monastery of Anba Rowais"
+        }
+        
+      ]
+    },
+    {
+      "day": "19",
+      "celebrations": [
+        {
+          "title": "Departure of St. Archillas, the 18th Pope of Alexandria"
+        },
+		{
+          "title": "Martyrdom of St. George el-Mozahem."
+        },
+		{
+          "title": "Martyrdom of St. Bishai and St. Anoub"
+        },
+		{
+          "title": "First Pontifical Liturgy in St. Mark Cathedral in the Monastery of Anba Rowais."
+        }
+      ]
+    },
+    {
+      "day": "20",
+      "celebrations": [
+        {
+          "title": "Departure of Elisha, the Prophet."
+        }
+      ]
+    },
+    {
+      "day": "21",
+      "celebrations": [
+        {
+          "title": "Commemoration of the First Church for The Virgin Mary in the city of Caesarea Philippi"
+        },
+		{
+          "title": "Martyrdom of St. Timothy the Egyptian of Memphis"
+        },
+		{
+          "title": "Departure of St. Kadronos, 4th Pope of Alexandria"
+        }
+        
+      ]
+    },
+    {
+      "day": "22",
+      "celebrations": [
+        {
+          "title": "Consecration of the Church of Sts. Cosmas, Damian, Their Mother, and Brothers"
+        }
+         
+      ]
+    },
+    {
+      "day": "23",
+      "celebrations": [
+        {
+          "title": "Departure of St. Abba Noub, the Confessor"
+        }
+      ]
+    },
+    {
+      "day": "24",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Moses the Black"
+        }
+         
+      ]
+    },
+    {
+      "day": "25",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Jude, one of the Seventy Disciples"
+        },
+        {
+          "title": "Departure of St. Peter IV, the 34th Pope of Alexandria"
+        }
+      ]
+    },
+    {
+      "day": "26",
+      "celebrations": [
+        {
+          "title": "Departure of the Joshua the Prophet, Son of Nun"
+        },
+		{
+          "title": "Consecration of the Church of Gabriel, the Archangel"
+        }
+      ]
+    },
+    {
+      "day": "27",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Ananias, the Apostle."
+        },
+		{
+          "title": "Martyrdom of St. Thomas of Shentalet"
+        } 
+		
+      ]
+    },
+    {
+      "day": "28",
+      "celebrations": [
+        {
+          "title": "Departure of St. Theodosius, the 33rd Pope of Alexandria"
+        },
+		{
+          "title": "Commemoration of the Consecration of the Church of St. Sarabamoun, Bishop of Nikiu"
+        }
+      ]
+    },
+    {
+      "day": "29",
+      "celebrations": [
+        {
+          "title": "Martyrdom of the Seven Ascetic Saints in Tounar Mount"
+        },
+		{
+          "title": "Martyrdom of Sts. Abba Hour and his Mother Theodora"
+        },
+		{
+          "title": "Consecration of the Church of Suriel. the Archangel"
+        }
+      ]
+    },
+    {
+      "day": "30",
+      "celebrations": [
+        {
+          "title": "Nativity of St. John the Baptist"
+        }
+      ]
+    }
+  ]
+}

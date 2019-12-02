@@ -1,0 +1,356 @@
+{
+  "days": [
+    {
+      "day": "01",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Stephen, the Archdeacon"
+        },
+        {
+          "title": "Martyrdom of St. Leontius."
+        },
+        {
+          "title": "Martyrdom of Aesculapius and Dioscorus of Akhmim"
+        }
+
+      ]
+    },
+    {
+      "day": "02",
+      "celebrations": [
+        {
+          "title": " Departure of St. Theonas, the 16th Pope of Alexandria."
+        },
+        {
+          "title": "Martyrdom of St. Callinicus (Gallinicus), Bishop of Letopolis."
+        }
+        
+      ]
+    },
+    {
+      "day": "03",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Slain Children of Bethlehem by the Order of Herod the Great."
+        }
+      ]
+    },
+    {
+      "day": "04",
+      "celebrations": [
+        {
+          "title": "Departure of St. John the Evangelist."
+        }
+		
+      ]
+    },
+    {
+      "day": "05",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Eusignius the Soldier."
+        }
+		
+		        
+      ]
+    },
+    {
+      "day": "06",
+      "celebrations": [
+        {
+            "title": "Commemoration of the Circumcision of the Lord Christ."
+        },
+		{
+            "title": "Ascension of Elijah, the Prophet."
+        },
+		{
+            "title": "Departure of St. Marcianus, the 8th Pope of Alexandria."
+        },
+		{
+            "title": "Departure of St. Basil the Great, Bishop Of Caesarea."
+        }
+      ]
+    },
+    {
+      "day": "07",
+      "celebrations": [
+        {
+          "title": "Departure of St. Silvester, Bishop of Rome"
+        }
+         
+        
+      ]
+    },
+    {
+      "day": "08",
+      "celebrations": [
+        {
+          "title": "Consecration of the Church of St. Macarius"
+        },
+        {
+          "title": "Departure of St. Andronicus, the 37th Pope of Alexandria"
+        },
+        {
+          "title": "Departure of St. Benjamin, the 38th Pope of Alexandria"
+        }
+      ]
+    },
+    {
+      "day": "09",
+      "celebrations": [
+        {
+          "title": "Departure of St. Abraam, friend of St. George (Ga'orgi) of Scetes"
+        },
+		{
+          "title": "Departure of Bishop Karas, the 1st Bishop of the United States"
+        }
+
+      ]
+    },
+    {
+      "day": "10",
+      "celebrations": [
+        {
+          "title": "Paramouni of Holy Theophany."
+        },
+        {
+            "title": "Departure of St. Demetrius II, the 111th Pope of Alexandria."
+        },
+		{
+          "title": "Commemoration of St. Justus, disciple of St. Samuel"
+        }
+      ]
+    },
+    {
+      "day": "11",
+      "celebrations": [
+        {
+          "title": "Holy Theophany of Our Lord, God and Savior, Jesus Christ (Baptism of the Lord)."
+        }
+      ]
+    },
+    {
+      "day": "12",
+      "celebrations": [
+        {
+          "title": "Commemoration of Michael, the Archangel."
+        },
+        {
+          "title": "Martyrdom of St. Theodore El-Mishreke (the Oriental)."
+        },
+        {
+          "title": "Martyrdom of St. Anatole (Anatolius)."
+        }
+      ]
+    },
+    {
+      "day": "13",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Miracle at Cana."
+        },
+        {
+            "title": "Departure of St. Theophilus, the Monk."
+        } ,
+        {
+            "title": "Martyrdom of St. Demiana."
+        } 
+      ]
+    },
+    {
+      "day": "14",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Mohrael."
+        },
+        {
+          "title": "Departure of St. Archiledis (Arselidas)."
+        },
+        {
+          "title": "Departure of St. Maximus, Brother of St. Domatius, sons of the Roman Emperor Valentinian I."
+        }
+      ]
+    },
+    {
+      "day": "15",
+      "celebrations": [
+        {
+          "title": "Departure of Obadiah, the Prophet."
+        }
+      ]
+    },
+    {
+      "day": "16",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Philotheus."
+        },
+		{
+          "title": "Departure of St. John IV, the 48th Pope of Alexandria."
+        }
+         
+      ]
+    },
+    {
+      "day": "17",
+      "celebrations": [
+        {
+          "title": "Departure of St. Domatius, Brother of St. Maximus, sons of the Roman Emperor Valentinian I."
+        },
+        {
+          "title": "Departure of St. Yousab el-Abbah, Bishop of Girga,"
+        }
+      ]
+    },
+    {
+      "day": "18",
+      "celebrations": [
+        {
+          "title": "Departure of St. James, Bishop of Nisibis."
+        }
+        
+      ]
+    },
+    {
+      "day": "19",
+      "celebrations": [
+        {
+          "title": "Discovery of the Relics of St. Abahor (Pihour) St. Bisoura (Pisoura) & their Mother St. Ampira (Asra)."
+        }
+      ]
+    },
+    {
+      "day": "20",
+      "celebrations": [
+        {
+          "title": "Departure of St. Prochorus, one of the Seventy Disciples."
+        },
+        {
+          "title": "Commemoration of the Consecration of the Church of St. John, the Owner of the Golden Gospel, and the Transfer of His Relics to It."
+        },
+        {
+          "title": "Commemoration of the Martyrdom of St. Behna (Bahnou) and St. Kloag (Bagoug), the Priest."
+        }
+      ]
+    },
+    {
+      "day": "21",
+      "celebrations": [
+        {
+          "title": "Commemoration of the Holy Virgin Saint Mary, the Mother of God (Theotokos)"
+        },
+		{
+          "title": "Departure of St. Hilaria, Daughter of Emperor Zeno."
+        },
+		{
+          "title": "Departure of St. Gregory of Nyssa, Brother of St. Basil the Great."
+        }
+        
+      ]
+    },
+    {
+      "day": "22",
+      "celebrations": [
+        {
+          "title": "Departure of St. Anthony the Great."
+        }
+         
+      ]
+    },
+    {
+      "day": "23",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Timothy, the Apostle."
+        },
+		{
+          "title": "Departure of St. Cyril IV, the 110th Pope of Alexandria."
+        }
+      ]
+    },
+    {
+      "day": "24",
+      "celebrations": [
+        {
+          "title": "Departure of St. Mary the Ascetic (The Shut-In)."
+        },
+        {
+          "title": "Martyrdom of St. Bisada (Psati), the Priest."
+        }
+         
+      ]
+    },
+    {
+      "day": "25",
+      "celebrations": [
+        {
+          "title": "Departure of St. Peter, the Worshipper."
+        },
+        {
+          "title": "Martyrdom of St. Askala (Asela), the Ascetic."
+        }
+      ]
+    },
+    {
+      "day": "26",
+      "celebrations": [
+        {
+          "title": "Martyrdom of the Forty-Nine Saints, the Elders of Scetis"
+        },
+		{
+          "title": "Departure of St. Anastasia."
+        }
+      ]
+    },
+    {
+      "day": "27",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Sarapion."
+        },
+        {
+          "title": "Commemoration of Sariel, the Archangel."
+        },
+        {
+          "title": "Relocation of the Relics of St. Timothy, the Apostle."
+        },
+        {
+          "title": "Martyrdom of St. Phoebammon (Abu-Fam), the Soldier."
+        }
+      ]
+    },
+    {
+      "day": "28",
+      "celebrations": [
+        {
+          "title": "Martyrdom of St. Clement."
+        },
+		{
+          "title": "Martyrdom of St. Anba Kaou."
+        }
+      ]
+    },
+    {
+      "day": "29",
+      "celebrations": [
+        {
+          "title": "Departure of St. Eksani (St. Xene)."
+        },
+		{
+          "title": "Commemoration of St. Seriakos (Syriacus), the Fighter."
+        }
+      ]
+    },
+    {
+      "day": "30",
+      "celebrations": [
+        {
+          "title": "Martyrdom of Sts. Pistis, Helpis, Agape, & their Mother Sophia."
+        },
+		{
+          "title": "Departure of St. Andrews the Samuelite."
+        }
+      ]
+    }
+  ]
+}

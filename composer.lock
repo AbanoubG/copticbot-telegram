@@ -1,0 +1,109 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "485d4c6d25e1707418b45d87e7094414",
+    "packages": [
+        {
+            "name": "eleirbag89/telegrambotphp",
+            "version": "1.3.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Eleirbag89/TelegramBotPHP.git",
+                "reference": "aec5bc4f5873595d1b4f03fd0d955549ba4cfab3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Eleirbag89/TelegramBotPHP/zipball/aec5bc4f5873595d1b4f03fd0d955549ba4cfab3",
+                "reference": "aec5bc4f5873595d1b4f03fd0d955549ba4cfab3",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "Telegram.php",
+                    "TelegramErrorLogger.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gabriele Grillo",
+                    "email": "gabry.grillo@alice.it"
+                }
+            ],
+            "description": "A very simple PHP Telegram Bot API",
+            "time": "2017-12-27T13:46:04+00:00"
+        },
+        {
+            "name": "meysampg/intldate",
+            "version": "v1.2.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/meysampg/intldate.git",
+                "reference": "cb5abc65562f6151520f640480d14cc9a31c18e0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/meysampg/intldate/zipball/cb5abc65562f6151520f640480d14cc9a31c18e0",
+                "reference": "cb5abc65562f6151520f640480d14cc9a31c18e0",
+                "shasum": ""
+            },
+            "require": {
+                "ext-intl": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "meysampg\\intldate\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Meysam P.G.",
+                    "email": "p.g.meysam@gmail.com"
+                }
+            ],
+            "description": "A small php library for date converting between multiple calendar",
+            "keywords": [
+                "Chinese",
+                "Jalali",
+                "Taiwan",
+                "buddhist",
+                "coptic",
+                "date",
+                "ethiopic",
+                "extension",
+                "gregorian",
+                "hebrew",
+                "indian",
+                "intl",
+                "islamic",
+                "islamic-civil",
+                "japanese",
+                "persian"
+            ],
+            "time": "2018-05-17T12:57:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
